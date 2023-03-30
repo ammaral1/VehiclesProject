@@ -5,5 +5,10 @@ public class Main {
         car.type="passenger";
         car.model="modern";
 
+        Bike bike =new Bike();
+        bike.color="red";
+        bike.type="fast";
+        bike.model="racing";
+
     }
 }
