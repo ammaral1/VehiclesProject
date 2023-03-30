@@ -10,5 +10,10 @@ public class Main {
         bike.type="fast";
         bike.model="racing";
 
+        Motorcycle motorcycle=new Motorcycle();
+        motorcycle.speed="123";
+        motorcycle.color="red";
+        
+
     }
 }
