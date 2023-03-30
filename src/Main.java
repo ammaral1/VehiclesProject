@@ -10,5 +10,9 @@ public class Main {
         bike.type="fast";
         bike.model="racing";
 
+        SismsimFeature s=new SismsimFeature();
+        s.she="nice";
+
+
     }
 }
